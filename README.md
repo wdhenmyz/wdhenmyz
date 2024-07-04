@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br><br>📚 atualmente aprendendo electron, JS, HTML, CSS e postgresql.<br><br>🎯 Goals: ...<br><br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br><br>📚 atualmente aprendendo electron, JS, HTML, CSS e postgresql.<br><br>🎯 objetivos: ser um desenvolvedor full-stack<br><br>🎲 Fun fact: ...</p>
 
 ###
 
